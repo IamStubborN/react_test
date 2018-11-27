@@ -2,6 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://iamstubborn.github.io/react_test/",
   "dependencies": {
     "node-sass": "^4.10.0",
     "react": "^16.6.3",
